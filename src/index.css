@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Graphik";
+    src: url('./assets/fonts/GraphikRegular.otf');
+}
+*{
+    font-family: "Graphik";
+}

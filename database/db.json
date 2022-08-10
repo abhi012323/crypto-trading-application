@@ -1,0 +1,265 @@
+{
+  "cryptoCurrencies": [
+    {
+      "id": 1,
+      "image": "/images/bitcoin.png",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "cost": 3406069.54
+    },
+    {
+      "id": 2,
+      "image": "/images/ethereum.png",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "cost": 240048.03
+    },
+    {
+      "id": 3,
+      "image": "/images/binance.png",
+      "name": "Binance",
+      "symbol": "Binance",
+      "cost": 30054.88
+    },
+    {
+      "id": 4,
+      "image": "/images/tether.png",
+      "name": "Tether",
+      "symbol": "Tether",
+      "cost": 74.214
+    },
+    {
+      "id": 5,
+      "image": "/images/cardano.png",
+      "name": "Cardano",
+      "symbol": "Cardano",
+      "cost": 138.22
+    },
+    {
+      "id": 6,
+      "image": "/images/xrp.png",
+      "name": "xrp",
+      "symbol": "xrp",
+      "cost": 76.73
+    },
+    {
+      "id": 7,
+      "image": "/images/dagecoin.png",
+      "name": "Dogecoin",
+      "symbol": "DGC",
+      "cost": 21.37
+    },
+    {
+      "id": 8,
+      "image": "/images/polkadot.png",
+      "name": "Polkadot",
+      "symbol": "PLK",
+      "cost": 1642.39
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "typePayment": "sold",
+      "date": "June 23",
+      "cryptoValue": "0.0234510",
+      "dollarValue": "34000.00",
+      "symbol": "BTC",
+      "name": "Bitcoin BTC"
+    },
+    {
+      "id": 2,
+      "typePayment": "purchased",
+      "date": "June 14",
+      "symbol": "BTC",
+      "dollarValue": "34000.00",
+      "cryptoValue": "0.0010",
+      "name": "Bitcoin BTC"
+    }
+  ],
+  "graphData": [
+    {
+      "crypto": "Bitcoin",
+      "id": 1,
+      "data": [
+        {
+          "timePeriod": "Jan-22",
+          "value": 2000
+        },
+        {
+          "timePeriod": "Feb-22",
+          "value": 6000
+        },
+        {
+          "timePeriod": "Mar-22",
+          "value": 4000
+        },
+        {
+          "timePeriod": "Apr-22",
+          "value": 8000
+        },
+        {
+          "timePeriod": "May-22",
+          "value": 3000
+        },
+        {
+          "timePeriod": "Jun-22",
+          "value": 1500
+        },
+        {
+          "timePeriod": "Jul-22",
+          "value": 9000
+        }
+      ]
+    },
+    {
+      "crypto": "Ethereum",
+      "id": 2,
+      "data": [
+        {
+          "timePeriod": "Jan-22",
+          "value": 1500
+        },
+        {
+          "timePeriod": "Feb-22",
+          "value": 2000
+        },
+        {
+          "timePeriod": "Mar-22",
+          "value": 5000
+        },
+        {
+          "timePeriod": "Apr-22",
+          "value": 7000
+        },
+        {
+          "timePeriod": "May-22",
+          "value": 20000
+        },
+        {
+          "timePeriod": "Jun-22",
+          "value": 5500
+        },
+        {
+          "timePeriod": "Jul-22",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "crypto": "Binance",
+      "id": 3,
+      "data": [
+        {
+          "timePeriod": "Jan-22",
+          "value": 3500
+        },
+        {
+          "timePeriod": "Feb-22",
+          "value": 9000
+        },
+        {
+          "timePeriod": "Mar-22",
+          "value": 2000
+        },
+        {
+          "timePeriod": "Apr-22",
+          "value": 6000
+        },
+        {
+          "timePeriod": "May-22",
+          "value": 10000
+        },
+        {
+          "timePeriod": "Jun-22",
+          "value": 500
+        },
+        {
+          "timePeriod": "Jul-22",
+          "value": 9000
+        }
+      ]
+    },
+    {
+      "crypto": "Tether",
+      "id": 4,
+      "data": [
+        {
+          "timePeriod": "Jan-22",
+          "value": 8500
+        },
+        {
+          "timePeriod": "Feb-22",
+          "value": 2000
+        },
+        {
+          "timePeriod": "Mar-22",
+          "value": 7000
+        },
+        {
+          "timePeriod": "Apr-22",
+          "value": 5000
+        },
+        {
+          "timePeriod": "May-22",
+          "value": 8000
+        },
+        {
+          "timePeriod": "Jun-22",
+          "value": 8500
+        },
+        {
+          "timePeriod": "Jul-22",
+          "value": 7000
+        }
+      ]
+    }
+  ],
+  "user": {
+    "walletBalance": 34000,
+    "cryptos": [
+      {
+        "id": 1,
+        "changePercent": 2.34
+      },
+      {
+        "id": 2,
+        "changePercent": -0.34
+      },
+      {
+        "id": 4,
+        "changePercent": 6.49
+      }
+    ],
+    "portfolio": [
+      {
+        "timePeriod": "Jan-22",
+        "value": 3000
+      },
+      {
+        "timePeriod": "Feb-22",
+        "value": 1000
+      },
+      {
+        "timePeriod": "Mar-22",
+        "value": 20000
+      },
+      {
+        "timePeriod": "Apr-22",
+        "value": 15000
+      },
+      {
+        "timePeriod": "May-22",
+        "value": 18000
+      },
+      {
+        "timePeriod": "Jun-22",
+        "value": 9000
+      },
+      {
+        "timePeriod": "Jul-22",
+        "value": 2000
+      }
+    ]
+  }
+}

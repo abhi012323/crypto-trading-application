@@ -1,0 +1,7 @@
+organization=zemoso-int
+projectKey=backend-bc-39
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.30354
+dashboardUrl=https://sonarcloud.io/dashboard?id=backend-bc-39
+ceTaskId=AYIfu9erEdqTr6ninzAs
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYIfu9erEdqTr6ninzAs
